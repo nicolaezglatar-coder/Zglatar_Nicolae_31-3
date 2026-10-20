@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28701.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "ReutersFeatures", "ReutersFeatures.vcxproj", "{B2A08F22-39DC-4614-BB88-6C5F0CD576ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A08F22-39DC-4614-BB88-6C5F0CD576ED}.Debug|x64.ActiveCfg = Debug|x64
+		{B2A08F22-39DC-4614-BB88-6C5F0CD576ED}.Debug|x64.Build.0 = Debug|x64
+		{B2A08F22-39DC-4614-BB88-6C5F0CD576ED}.Release|x64.ActiveCfg = Release|x64
+		{B2A08F22-39DC-4614-BB88-6C5F0CD576ED}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
